@@ -1,23 +1,31 @@
-### Falaa Dev! Eu sou o Gustavo! 
+### Falaa Dev! Eu sou o Gustavo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 
-- 🔭 Aluno Instituto Proa
-- 🌱 Estudando JavaScript
+- 💻 Desenvolvimento web.
+- 🔭 Aluno Instituto Proa.
+- 📗 Atualmente estudo desenvolvimento Front-end e Back-end.
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusenise/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?ogbl#inbox)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-senise-5410ba246/)
+#### 💬 Encontre-me em outro lugar
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-goncalves/)](https://www.linkedin.com/in/gustavo-senise-5410ba246/) 
+[![Gmail Badge](https://img.shields.io/badge/-gustavosenise1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavosenise1@gmail.com)](mailto:gustavosenise1@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.linkedin.com/in/alan-gon%C3%A7alves-261699244/)](https://www.instagram.com/gusenise/)
 
 
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gussenise&show_icons=true&theme=dracula&count_private=true)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=415ce1&height=120&section=header"/>
 
-## Tecnologias que eu uso no meu dia
+</div>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div><br/>
+  <div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gussenise&show_icons=true&count_private=true&hide_border=true&title_color=415ce1&icon_color=415ce1&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Senise github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gussenise&layout=compact&hide_border=true&title_color=415ce1&text_color=48D1CC&bg_color=0d1117" />
+  
+ [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,react,)](https://skills.thijs.gg)
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=415ce1&height=120&section=footer"/>
+
+</div>
